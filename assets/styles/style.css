@@ -367,7 +367,7 @@ main #features .row {
   gap: 5;
 }
 main #features .row div {
-  height: 300px;
+  height: 350px;
   background: #0f1234;
   border-radius: 8px;
 }
