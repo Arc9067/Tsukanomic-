@@ -367,9 +367,9 @@ main #features .row {
   gap: 5;
 }
 main #features .row div {
-  height: 350px;
   background: #0f1234;
   border-radius: 8px;
+  padding: 20px 10px;
 }
 main #features .row div h2 {
   font-style: normal;
